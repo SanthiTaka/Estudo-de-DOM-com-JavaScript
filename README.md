@@ -18,4 +18,4 @@ Sinta-se à vontade para fazer um fork deste repositório, melhorar o código e 
 
 ## Contato
 
-Para mais informações, entre em contato: [seuemail@example.com]
+Para mais informações, entre em contato: [santhiago.takaesu2021@gmail.com]
